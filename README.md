@@ -1,4 +1,4 @@
-# C Programming & Data Structures Lab
+# C Programming & DSA Assignments
 
 This repository contains C programming assignments completed during a C Programming & Data Structures training program. The assignments are designed to build a strong foundation in programming through practical exercises. Each assignment includes the source code, documentation, and a sample output screenshot.
 
